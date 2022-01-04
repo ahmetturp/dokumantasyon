@@ -1,0 +1,16 @@
+# Haberler
+Yeni bir haber girmek ya da oluşturulmuş haberlerin görüntülenebileceği ekrandır.
+## Haber Listesi
+Oluşturulmuş haberler burada gösterilir, düzenlenir ya da silinir.
+
+![](./images/haberListesi.jpg)
+
+## Haber Tanımla
+Haberler bölümünde yeni bir haber yayınlamak için kullanılır.
+
+| Özellik                  | Açıklama                                                     |
+| ------------------------ | ------------------------------------------------------------ |
+| Bildirim Gönderme Durumu | Açık olması halinde; haber yayınlandığı anda, alıcı listesinde seçilmiş kişilere bildirim gönderilir. |
+| Başlık                   | Haber başlığı. En fazla 100 karakter olabilir.               |
+| Kısa Açıklama            | Başlığın altında görüntülenecek kısa açıklama. En fazla 250 karakter olabilir. |
+| Detaylı Açıklama         | Haberin ana metnidir.                                        |
