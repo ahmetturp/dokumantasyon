@@ -1,15 +1,14 @@
-site_name: Mobil Yaka Kılavuzu
-site_url: https://example.com/
-nav:
-    - Home: index.md
-    - Haberler: ./haberler/haberler.md
-    - Tebrikler:
-      - Tebrikler: ./tebrikler/tebrikler.md
-      - Şablonlar: ./tebrikler/sablonlar/sablonlar.md
-      - Test:
-        - TestDeneme: ./test.md
-theme:
-  name: material
-  palette:
-    primary: blue
-    accent: blue
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
