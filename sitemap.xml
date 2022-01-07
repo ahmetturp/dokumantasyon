@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/egitimler/kategoriler/kategoriler/</loc>
+         <lastmod>2022-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/haberler/haberler/</loc>
          <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
