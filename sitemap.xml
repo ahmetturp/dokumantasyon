@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/egitimler/egitim-galerisi/egitim-galerisi/</loc>
+         <lastmod>2022-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/egitimler/egitimler/egitimler/</loc>
          <lastmod>2022-01-07</lastmod>
          <changefreq>daily</changefreq>
