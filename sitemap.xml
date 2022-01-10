@@ -6,17 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/egitim-galerisi/egitim-galerisi/</loc>
+         <loc>https://example.com/egitimler/egitim-galerisi/</loc>
          <lastmod>2022-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/egitimler/egitimler/</loc>
+         <loc>https://example.com/egitimler/egitimler/</loc>
          <lastmod>2022-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/kategoriler/kategoriler/</loc>
+         <loc>https://example.com/egitimler/kategoriler/</loc>
          <lastmod>2022-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,12 +26,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tebrikler/sablonlar/sablonlar/</loc>
+         <loc>https://example.com/kullanicilar/kullanici-gruplari/</loc>
          <lastmod>2022-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tebrikler/tebrikler/tebrikler/</loc>
+         <loc>https://example.com/kullanicilar/kullanicilar/</loc>
+         <lastmod>2022-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/tebrikler/sablonlar/</loc>
+         <lastmod>2022-01-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/tebrikler/tebrikler/</loc>
          <lastmod>2022-01-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
