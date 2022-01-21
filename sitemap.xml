@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/egitim-galerisi/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/egitimler/egitim-galerisi/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/egitimler/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/egitimler/egitimler/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/egitimler/kategoriler/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/egitimler/kategoriler/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/haberler/haberler/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/haberler/haberler/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/kullanicilar/kullanici-gruplari/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/kullanicilar/kullanici-gruplari/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/kullanicilar/kullanicilar/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/kullanicilar/kullanicilar/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tebrikler/sablonlar/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/tebrikler/sablonlar/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tebrikler/tebrikler/</loc>
-         <lastmod>2022-01-10</lastmod>
+         <loc>https://ahmetturp.github.io/dokumantasyon/tebrikler/tebrikler/</loc>
+         <lastmod>2022-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
