@@ -1,0 +1,10 @@
+[data-md-color-scheme="mobilyaka-mavi"] {
+    --md-primary-fg-color:        #0098FF;
+    /*--md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C; */
+  }
+  [data-md-color-scheme="mobilyaka-turuncu"] {
+    --md-primary-fg-color:        #F9B233;
+    /*--md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C; */
+  }
