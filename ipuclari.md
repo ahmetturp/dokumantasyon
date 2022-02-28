@@ -1,1 +1,0 @@
-- Departman silindiğinde, kullanıcılar eski departmanlarında kalmaya devam ediyor (lokasyon için de). Bu tip işlemler yapılmadan önce bizimle iletişime geçebilirler. Yani tek tek herkesin departmanını taşımak yerine, bize danışabilirler.
