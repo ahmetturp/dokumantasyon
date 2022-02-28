@@ -1,6 +1,6 @@
 # :fontawesome-solid-indent: Ramak Kala
 
-
+Muhtemel güvenlik sorunlarının veya ofiste oluşan arızaların çalışanlarınız tarafından fotoğraf ve açıklamalarla yetkililere iletildiği modüldür.
 
 ## :fontawesome-solid-indent: Ramak Kala Listesi
 
