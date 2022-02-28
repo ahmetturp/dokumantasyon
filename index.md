@@ -23,6 +23,8 @@ Her yardım sayfasının en altında **Uygulama İçi Görünümü** (Mockup) bu
 !!! info "Not"
 
     Web tarayıcınızın güvenlik seviyesi "Yüksek" ise bu ekran görüntüleri açılmayabilir. Bu durumda tarayıcı güvenlik ayarlarınızı "normal" seviyeye çekebilir, ya da görüntüyü yeni sekmede açmak için <a href="https://xd.adobe.com/view/a51929be-b754-4dc0-ad0d-97be0156061d-f04a/" target="_blank">buraya</a> tıklayabilirsiniz.
+    
+    Bu görünümler tamamen mobil uygulamanın tasarımı hakkında bilgi verme amaçlı olup, mobil cihazınızdaki deneyimi birebir yansıtmamaktadır.
 
 Arama alanının yanındaki buton ile farklı renk şemaları arasında geçiş yapabilirsiniz.
 
